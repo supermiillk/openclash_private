@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+  - DOMAIN,epdg.epc.drz1.vodafone-ip.de
+  #host指定解析就行
